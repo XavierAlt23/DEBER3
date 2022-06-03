@@ -117,15 +117,15 @@ una resistencia total. Las caídas de voltaje entre cada uno de los resistores s
 
                                                                       6. BIBLIOGRAFÍA
 
-Notación científica. Ejemplos (video) | Khan Academy. (2003). https://es.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation/v/scientific-notation
+Resistores en serie. (n.d.). Khan Academy. Retrieved June 3, 2022, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-series-resistors
 
-Definición de exponente — Definicion.de. (2020). Definición.de. https://definicion.de/exponente/
+10.2 Resistores en serie y en paralelo. (n.d.). Openstax.org. Retrieved June 3, 2022, from https://openstax.org/books/f%C3%ADsica-universitaria-volumen-2/pages/10-2-resistores-en-serie-y-en-paralelo
 
-Administrador. (2018, February 9). Notación científica. Notación de ingeniería - electrónica unicrom. Electrónica Unicrom. https://unicrom.com/notacion-cientifica-notacion-ingenieria/
+Fernández, J. L. (n.d.). Resistencias en serie, paralelo y mixtas. Fisicalab.com. Retrieved June 3, 2022, from https://www.fisicalab.com/apartado/asociacion-de-resistencias
 
-anais. (2015, October 5). Potencias de base 10. Matemáticas. https://es.plusmaths.com/potencias-de-base-10.html
 
-Prefijo métrico. (2019). Hmong.es; tok.wiki. https://hmong.es/wiki/SI_prefix
+
+
 
 RUBRICA
 
